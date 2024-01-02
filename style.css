@@ -1,0 +1,13 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner{
+    background-image: url(/portfolio/img/bd1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+}
+.contact{
+    padding-bottom: 50px;
+}
